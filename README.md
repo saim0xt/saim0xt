@@ -10,7 +10,7 @@ I’m a **college student** with a passion for **technology and computers**. I'm
 - 🤖 Learning: **Machine Learning (ML)**
 
 ---
-)
+
 
 ## 🚀 About Me
 I’m a **college student** with a passion for **technology and computers**. I'm always excited to explore new technologies and deepen my understanding of the digital world.
