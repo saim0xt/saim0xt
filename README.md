@@ -1,6 +1,18 @@
 # 👋 Hi, I'm Saim Arafat
 
-![Header Image](https://ibb.co.com/gTV7xQp)
+![Header Image](# 👋 Hi, I'm Saim Arafat
+
+![Header Image](https://github.com/sim0xt/saim0xt/assets/blob/main/header-image.png)
+
+## 🚀 About Me
+I’m a **college student** with a passion for **technology and computers**. I'm always excited to explore new technologies and deepen my understanding of the digital world.
+
+- 💻 Familiar with: **C, C++, Python, JavaScript**
+- 🏆 Currently preparing for: **Competitive Programming**
+- 🤖 Learning: **Machine Learning (ML)**
+
+---
+)
 
 ## 🚀 About Me
 I’m a **college student** with a passion for **technology and computers**. I'm always excited to explore new technologies and deepen my understanding of the digital world.
