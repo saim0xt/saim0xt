@@ -12,15 +12,6 @@ I’m a **college student** with a passion for **technology and computers**. I'm
 ---
 
 
-## 🚀 About Me
-I’m a **college student** with a passion for **technology and computers**. I'm always excited to explore new technologies and deepen my understanding of the digital world.
-
-- 💻 Familiar with: **C, C++, Python, JavaScript**
-- 🏆 Currently preparing for: **Competitive Programming**
-- 🤖 Learning: **Machine Learning (ML)**
-
----
-
 ## 🔧 Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
