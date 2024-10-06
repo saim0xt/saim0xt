@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saim Arafat
 
-![Header Image](https://github.com/saim0xt/saim0xt/assets/header-image.png)
+![Header Image](https://github.com/saim0xt/saim0xt/github-header-image.png)
 
 ## 🚀 About Me
 I’m a **college student** with a passion for **technology and computers**. I'm always excited to explore new technologies and deepen my understanding of the digital world.
