@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saim Arafat
+# 👋 Hi there, I'm Saim Arafat
 
 ![Header Image](https://github.com/saim0xt/saim0xt/blob/main/assests/header-image.png)
 
