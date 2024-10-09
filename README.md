@@ -1,4 +1,4 @@
-# 👋 Hi there,It's me,Saim...
+# 👋 Hi there,I'm Saim...
 
 ![Header Image](https://github.com/saim0xt/saim0xt/blob/main/assests/header-image.png)
 
@@ -16,13 +16,52 @@ I am **Saim Arafat**, a passionate **college student** with a deep interest in *
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</div>
+<table>
+  <tr>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="left" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,9 +110,33 @@ Connect with me on professional platforms to collaborate and share knowledge:
 
 ## 🚀 Recent Projects
 
--🌟**[Project 1: Innovative AI Solution](#)** - A cutting-edge AI project focused on solving real-world problems.
--🌟**[Project 2: Open Source Contribution](#)** - Collaborated on an open-source project to enhance community-driven software.
--🌟**[Project 3: Competitive Programming Platform](#)** - Developed a platform to streamline competitive programming practice.
+### 📌 [Project 1: Innovative AI Solution](#)
+- **Description:** A cutting-edge AI project focused on solving real-world problems.
+- **Technologies:** Python, TensorFlow, OpenCV
+- **Highlights:**
+  - 🤖 Developed an intelligent system for real-time data analysis.
+  - 📈 Improved accuracy by 20% using advanced machine learning models.
+  - 🌟 Received recognition at a tech conference for innovation.
+
+---
+
+### 📌 [Project 2: Open Source Contribution](#)
+- **Description:** Collaborated on an open-source project to enhance community-driven software.
+- **Technologies:** JavaScript, Node.js, React
+- **Highlights:**
+  - 🌐 Contributed to a popular open-source library with over 5,000 stars.
+  - 🔧 Implemented new features and fixed critical bugs.
+  - 🤝 Engaged with a vibrant developer community.
+
+---
+
+### 📌 [Project 3: Competitive Programming Platform](#)
+- **Description:** Developed a platform to streamline competitive programming practice.
+- **Technologies:** C++, Django, PostgreSQL
+- **Highlights:**
+  - 🏆 Designed a user-friendly interface for coding challenges.
+  - 🚀 Optimized algorithms for faster execution and scalability.
+  - 📚 Integrated learning resources and tutorials for users.
 
 ---
 
