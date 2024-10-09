@@ -26,7 +26,6 @@ I am **Saim Arafat**, a passionate **college student** with a deep interest in *
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -74,9 +73,16 @@ Connect with me on professional platforms to collaborate and share knowledge:
 
 ---
 
-## ✨ Inspirational Thought
+<div style="background-color: #f5f5f5; border-left: 5px solid #4CAF50; padding: 20px; margin: 20px 0; border-radius: 5px; font-family: 'Georgia', serif; font-size: 1.2em; color: #333;">
 
-> "The only way to do great work is to love what you do." - Steve Jobs
+  <p style="margin: 0; font-style: italic; text-align: center;">
+    "The only way to do great work is to love what you do."
+  </p>
+  <p style="margin: 0; text-align: right; font-weight: bold; color: #4CAF50;">
+    - Steve Jobs
+  </p>
+
+</div>
 
 ---
 
