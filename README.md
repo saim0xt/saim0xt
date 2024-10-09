@@ -99,7 +99,7 @@ I am currently enhancing my expertise in Machine Learning and refining my proble
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=saim0xt&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   
