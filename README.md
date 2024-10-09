@@ -16,16 +16,16 @@ I am **Saim Arafat**, a passionate **college student** with a deep interest in *
 
 ## 🛠️ Technologies & Tools
 
-- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) **C**
-- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) **C++**
-- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) **Python**
-- ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) **JavaScript**
-- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) **Linux**
-- ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) **CSS3**
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **React**
-- ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) **Node.js**
-- ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) **Git**
+- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C**
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux**
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js**
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git**
 
 ---
 
@@ -51,10 +51,6 @@ I am currently enhancing my expertise in Machine Learning and refining my proble
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saim0xt&theme=radical&hide_border=true" alt="GitHub Streak" />
   
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=saim0xt&theme=radical&no-frame=true&column=4" alt="Trophies" />
-</p>
-
 ---
 
 ## 🤝 Professional Connections
