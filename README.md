@@ -16,16 +16,74 @@ I am **Saim Arafat**, a passionate **college student** with a deep interest in *
 
 ## 🛠️ Technologies & Tools
 
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) **C**
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) **Linux**
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML5**
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS3**
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React**
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js**
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) **Git**
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">C</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #A8B9CC; width: 80%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">C++</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #00599C; width: 70%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Python</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #3776AB; width: 90%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">JavaScript</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #F7DF1E; width: 85%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Linux</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #FCC624; width: 75%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">HTML5</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #E34F26; width: 95%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">CSS3</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #1572B6; width: 80%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">React</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #61DAFB; width: 70%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Node.js</span>
+    <div style="background-color: #e0e0e0; border-radius: 5px; width: 100%;">
+      <div style="background-color: #339933; width: 60%; height: 10px; border-radius: 5px;"></div>
+    </div>
+  </div>
+
+  <div style="width: 100%; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Git</span>
+    <
 
 ---
 
