@@ -1,90 +1,96 @@
-# 👋 Hi there, I'm Saim Arafat
+# 👋 Welcome to My GitHub Profile
 
 ![Header Image](https://github.com/saim0xt/saim0xt/blob/main/assests/header-image.png)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **college student** with a passion for **technology and computers**. Always excited to explore new technologies and deepen my understanding of the digital world.
+I am **Saim Arafat**, a passionate college student with a deep interest in technology and software development. My journey in the digital realm is driven by curiosity and a commitment to continuous learning.
 
-- 💻 **Familiar with:** C, C++, Python, JavaScript
-- 🏆 **Currently preparing for:** Competitive Programming
-- 🤖 **Learning:** Machine Learning (ML)
-
-### 🌟 Fun Facts
-
-- 🎮 Love playing video games in my free time.
-- 📚 Avid reader of sci-fi novels.
-- 🎵 Enjoy creating music and playing the guitar.
+- **Languages:** C, C++, Python, JavaScript
+- **Current Focus:** Competitive Programming, Machine Learning
+- **Interests:** Artificial Intelligence, Open Source Contributions, Tech Innovation
 
 ---
 
-## 🔧 Technologies & Tools
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 📚 What I'm Learning
-
-I'm diving deep into **Machine Learning** and improving my **problem-solving skills** with **competitive programming**. Currently working on:
-
-- 📘 Algorithms and Data Structures
-- 🐍 Advanced Python for ML
-- 🔍 TensorFlow and PyTorch frameworks
-
-### 📈 Progress Tracker
-
-- [x] Completed basic ML course
-- [ ] Finish advanced algorithms
-- [ ] Build a personal project using PyTorch
-
----
-
-## 📈 GitHub Stats
+## Technologies & Tools
 
 <div align="center">
-  <a href="https://github.com/saim0xt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=saim0xt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saim's GitHub Stats" />
-  </a>
-  <a href="https://github.com/saim0xt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim0xt&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </a>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
 
-## 📫 Let's Connect
+## Learning Path
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+I am currently enhancing my expertise in Machine Learning and refining my problem-solving capabilities through competitive programming. My focus areas include:
+
+- **Algorithms and Data Structures**
+- **Advanced Python for ML**
+- **TensorFlow and PyTorch**
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saim0xt&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saim0xt&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## Professional Connections
+
+Connect with me on professional platforms to collaborate and share knowledge:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:coder.saim@outlook.com">
+  <a href="mailto:coder.saim@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+</p>
 
 ---
 
-## 🌟 Quote of the Day
+## Inspirational Thought
 
-💡 *"The only way to do great work is to love what you do." - Steve Jobs*
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+---
+
+## Recent Projects
+
+- **[Project 1: Innovative AI Solution](#)** - A cutting-edge AI project focused on solving real-world problems.
+- **[Project 2: Open Source Contribution](#)** - Collaborated on an open-source project to enhance community-driven software.
+- **[Project 3: Competitive Programming Platform](#)** - Developed a platform to streamline competitive programming practice.
 
 ---
 
-## 🎨 Design Elements
+## Future Aspirations
 
-- **Icons & Badges:** Use badges to represent technologies and tools.
-- **Images:** Add more images or GIFs to showcase projects or achievements.
-- **Progress Bars:** Use emojis or badges to indicate learning progress.
+I am eager to delve deeper into Artificial Intelligence and contribute to open-source projects that make a significant impact. My goal is to bridge the gap between technology and real-world applications.
 
 ---
+
+## Dynamic Content
+
+![Profile Views](https://komarev.com/ghpvc/?username=saim0xt&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/saim0xt?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/saim0xt?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+---
+
+## Contact Me
+
+Feel free to reach out for collaboration or just to say hi! I'm always open to discussing new projects, creative ideas, or opportunities to grow.
