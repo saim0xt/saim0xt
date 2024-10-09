@@ -73,16 +73,11 @@ Connect with me on professional platforms to collaborate and share knowledge:
 
 ---
 
-<div style="background-color: #f5f5f5; border-left: 5px solid #4CAF50; padding: 20px; margin: 20px 0; border-radius: 5px; font-family: 'Georgia', serif; font-size: 1.2em; color: #333;">
-
-  <p style="margin: 0; font-style: italic; text-align: center;">
-    "The only way to do great work is to love what you do."
-  </p>
-  <p style="margin: 0; text-align: right; font-weight: bold; color: #4CAF50;">
-    - Steve Jobs
-  </p>
-
-</div>
+> ## 🌟 Inspirational Quote
+> 
+> **_"The best among you are those who have the best manners and character."_**
+> 
+> <div align="right">- Prophet Muhammad (peace be upon him)</div>
 
 ---
 
