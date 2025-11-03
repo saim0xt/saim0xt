@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PricePulse Icon Generator</title>
+</head>
+<body>
+    <h1>PricePulse Icon Generator</h1>
+    <p>This page generates PNG icons from SVG. Open in browser and save the images.</p>
+
+    <canvas id="canvas16" width="16" height="16"></canvas>
+    <canvas id="canvas48" width="48" height="48"></canvas>
+    <canvas id="canvas128" width="128" height="128"></canvas>
+
+    <div>
+        <h3>16x16:</h3>
+        <img id="img16" />
+        <a id="download16" download="icon16.png">Download 16x16</a>
+    </div>
+
+    <div>
+        <h3>48x48:</h3>
+        <img id="img48" />
+        <a id="download48" download="icon48.png">Download 48x48</a>
+    </div>
+
+    <div>
+        <h3>128x128:</h3>
+        <img id="img128" />
+        <a id="download128" download="icon128.png">Download 128x128</a>
+    </div>
+
+    <script>
+        const svg = `<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                    <stop offset="0%" stop-color="#667eea"/>
+                    <stop offset="100%" stop-color="#764ba2"/>
+                </linearGradient>
+            </defs>
+            <circle cx="64" cy="64" r="64" fill="url(#bgGradient)"/>
+            <path d="M 20 64 L 35 64 L 45 35 L 55 85 L 65 50 L 75 70 L 85 64 L 108 64"
+                  stroke="white"
+                  stroke-width="6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  fill="none"/>
+            <path d="M 88 33 L 96 25 L 120 25 L 120 49 L 96 49 Z"
+                  fill="white"
+                  opacity="0.9"/>
+            <circle cx="100" cy="37" r="3" fill="#667eea"/>
+            <text x="15" y="105" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">$</text>
+        </svg>`;
+
+        function generateIcon(size) {
+            const canvas = document.getElementById('canvas' + size);
+            const ctx = canvas.getContext('2d');
+            const img = new Image();
+
+            img.onload = function() {
+                ctx.drawImage(img, 0, 0, size, size);
+                const dataUrl = canvas.toDataURL('image/png');
+
+                const imgElement = document.getElementById('img' + size);
+                imgElement.src = dataUrl;
+
+                const downloadLink = document.getElementById('download' + size);
+                downloadLink.href = dataUrl;
+            };
+
+            img.src = 'data:image/svg+xml;base64,' + btoa(svg);
+        }
+
+        generateIcon(16);
+        generateIcon(48);
+        generateIcon(128);
+    </script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        canvas {
+            display: none;
+        }
+        div {
+            margin: 20px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+        }
+        img {
+            border: 2px solid #ddd;
+            margin: 10px 0;
+        }
+        a {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</body>
+</html>

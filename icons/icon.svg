@@ -1,0 +1,32 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background gradient circle -->
+  <circle cx="64" cy="64" r="64" fill="url(#bgGradient)"/>
+
+  <!-- Pulse wave line -->
+  <path d="M 20 64 L 35 64 L 45 35 L 55 85 L 65 50 L 75 70 L 85 64 L 108 64"
+        stroke="white"
+        stroke-width="6"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        fill="none"/>
+
+  <!-- Price tag icon -->
+  <g transform="translate(88, 25)">
+    <path d="M 0 8 L 8 0 L 32 0 L 32 24 L 8 24 Z"
+          fill="white"
+          opacity="0.9"/>
+    <circle cx="12" cy="12" r="3" fill="url(#bgGradient)"/>
+  </g>
+
+  <!-- Dollar sign -->
+  <g transform="translate(15, 78)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">$</text>
+  </g>
+
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+  </defs>
+</svg>
