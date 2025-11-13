@@ -1,0 +1,66 @@
+{
+  "name": "expense-tracker-electron",
+  "version": "1.0.0",
+  "description": "High-performance, ultra-optimized expense tracker for Windows",
+  "main": "src/main/index.js",
+  "author": "Expense Tracker Team",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:renderer\" \"npm run dev:electron\"",
+    "dev:renderer": "vite",
+    "dev:electron": "cross-env NODE_ENV=development electron .",
+    "build": "vite build",
+    "build:win": "npm run build && electron-builder --win",
+    "start": "electron ."
+  },
+  "build": {
+    "appId": "com.expensetracker.app",
+    "productName": "Expense Tracker",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": ["nsis"],
+      "icon": "resources/icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    },
+    "files": [
+      "src/**/*",
+      "dist-renderer/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "resources",
+        "to": "resources",
+        "filter": ["**/*"]
+      }
+    ]
+  },
+  "keywords": ["expense", "tracker", "finance", "budget", "electron"],
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "better-sqlite3": "^12.4.1",
+    "chart.js": "^4.5.1",
+    "date-fns": "^4.1.0",
+    "electron": "^39.1.2",
+    "electron-builder": "^26.0.12",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.0",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^19.2.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "concurrently": "^9.2.1",
+    "cross-env": "^10.1.0",
+    "electron-vite": "^4.0.1",
+    "vite": "^7.2.2"
+  }
+}
